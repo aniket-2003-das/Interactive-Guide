@@ -1,0 +1,368 @@
+[
+    {
+        "_id": "650484096e14d539ecfe4bd0",
+        "timePeriodOfQuiz": 5,
+        "attemptedQuestions": 5,
+        "correctAnswer": 1,
+        "noOfQuestions": 5,
+        "quizDetails": {
+            "title": "types of bond"
+        },
+        "timeTaken": 18919,
+        "classDetails": {
+            "className": "10-A-physics",
+            "subjectName": "physics"
+        }
+    },
+    {
+        "_id": "6516c203a18ef330ec044be1",
+        "timePeriodOfQuiz": 90,
+        "attemptedQuestions": 5,
+        "correctAnswer": 2,
+        "noOfQuestions": 5,
+        "quizDetails": {
+            "title": "Human eye"
+        },
+        "timeTaken": 24861,
+        "classDetails": {
+            "className": "10-A-physics",
+            "subjectName": "physics"
+        }
+    },
+    {
+        "_id": "6519e600a18ef330ec044d99",
+        "timePeriodOfQuiz": 10,
+        "attemptedQuestions": 4,
+        "correctAnswer": 1,
+        "noOfQuestions": 4,
+        "quizDetails": {
+            "title": "types of bond"
+        },
+        "timeTaken": 83556,
+        "classDetails": {
+            "className": "10-A-physics",
+            "subjectName": "physics"
+        }
+    },
+    {
+        "_id": "6519e817a18ef330ec044dd0",
+        "timePeriodOfQuiz": 10,
+        "attemptedQuestions": 1,
+        "correctAnswer": 0,
+        "noOfQuestions": 4,
+        "quizDetails": {
+            "title": "Quadratic geometry"
+        },
+        "timeTaken": 5842,
+        "classDetails": {
+            "className": "Chemistry-class",
+            "subjectName": "chemistry"
+        }
+    },
+    {
+        "_id": "651c16d188705c1ac0f91bdd",
+        "timePeriodOfQuiz": 10,
+        "attemptedQuestions": 9,
+        "correctAnswer": 3,
+        "noOfQuestions": 10,
+        "quizDetails": {
+            "title": "Trigonometry"
+        },
+        "timeTaken": 66000,
+        "classDetails": {
+            "className": "10-A-physics",
+            "subjectName": "physics"
+        }
+    },
+    {
+        "_id": "651d4131ceb8883b804803fa",
+        "timePeriodOfQuiz": 10,
+        "attemptedQuestions": 5,
+        "correctAnswer": 0,
+        "noOfQuestions": 5,
+        "quizDetails": {
+            "title": "Determinants"
+        },
+        "timeTaken": 77501,
+        "classDetails": {
+            "className": "10-A-physics",
+            "subjectName": "physics"
+        }
+    },
+    {
+        "_id": "651d5c87f7b11443b4e50a62",
+        "timePeriodOfQuiz": 10,
+        "attemptedQuestions": 5,
+        "correctAnswer": 2,
+        "noOfQuestions": 5,
+        "quizDetails": {
+            "title": "new algebra quiz"
+        },
+        "timeTaken": 286665,
+        "classDetails": {
+            "className": "10-A-physics",
+            "subjectName": "physics"
+        }
+    },
+    {
+        "_id": "652f069de674ec275c7d8ff7",
+        "timePeriodOfQuiz": 10,
+        "attemptedQuestions": 4,
+        "correctAnswer": 0,
+        "noOfQuestions": 5,
+        "quizDetails": {
+            "title": "Right"
+        },
+        "timeTaken": 64137,
+        "classDetails": {
+            "className": "keyboard  learning class",
+            "subjectName": "music"
+        }
+    },
+    {
+        "_id": "652f6680a08f9945706416cf",
+        "timePeriodOfQuiz": 10,
+        "attemptedQuestions": 0,
+        "correctAnswer": 0,
+        "noOfQuestions": 4,
+        "quizDetails": {
+            "title": "Newton laws"
+        },
+        "timeTaken": -370612,
+        "classDetails": {
+            "className": "10-A-physics",
+            "subjectName": "physics"
+        }
+    },
+    {
+        "_id": "652f66c2a08f9945706416e7",
+        "timePeriodOfQuiz": 15,
+        "quizDetails": {
+            "title": "my quiz"
+        },
+        "timeTaken": null,
+        "classDetails": {
+            "className": "Chemistry-class",
+            "subjectName": "chemistry"
+        }
+    },
+    {
+        "_id": "652f8ecc5621ab31f8f37567",
+        "timePeriodOfQuiz": 5,
+        "attemptedQuestions": 3,
+        "correctAnswer": 0,
+        "noOfQuestions": 5,
+        "quizDetails": {
+            "title": "test-quiz"
+        },
+        "timeTaken": 23544,
+        "classDetails": {
+            "className": "Chemistry-class",
+            "subjectName": "chemistry"
+        }
+    },
+    {
+        "_id": "652f90265621ab31f8f375d1",
+        "timePeriodOfQuiz": 10,
+        "attemptedQuestions": 5,
+        "correctAnswer": 1,
+        "noOfQuestions": 6,
+        "quizDetails": {
+            "title": "Basics of accounts"
+        },
+        "timeTaken": 26903,
+        "classDetails": {
+            "className": "Chemistry-class",
+            "subjectName": "chemistry"
+        }
+    },
+    {
+        "_id": "6532d64c2e78ab82bfe6485d",
+        "timePeriodOfQuiz": 15,
+        "attemptedQuestions": 1,
+        "correctAnswer": 1,
+        "noOfQuestions": 4,
+        "quizDetails": {
+            "title": "NEW QUIZ TESTING MANAYULA"
+        },
+        "timeTaken": 15449,
+        "classDetails": {
+            "className": "10-A-physics",
+            "subjectName": "physics"
+        }
+    },
+    {
+        "_id": "6532f2c92e78ab82bfe64983",
+        "timePeriodOfQuiz": 5,
+        "attemptedQuestions": 4,
+        "correctAnswer": 2,
+        "noOfQuestions": 5,
+        "quizDetails": {
+            "title": "proablity quiz"
+        },
+        "timeTaken": 24987,
+        "classDetails": {
+            "className": "10-A-physics",
+            "subjectName": "physics"
+        }
+    },
+    {
+        "_id": "6532fa7c2e78ab82bfe649b8",
+        "timePeriodOfQuiz": 5,
+        "attemptedQuestions": 4,
+        "correctAnswer": 1,
+        "noOfQuestions": 5,
+        "quizDetails": {
+            "title": "physics quiz"
+        },
+        "timeTaken": 15106,
+        "classDetails": {
+            "className": "10-A-physics",
+            "subjectName": "physics"
+        }
+    },
+    {
+        "_id": "6533990d934e783ed83b67b0",
+        "timePeriodOfQuiz": 5,
+        "attemptedQuestions": 4,
+        "correctAnswer": 0,
+        "noOfQuestions": 5,
+        "quizDetails": {
+            "title": "Natural Phenomenon"
+        },
+        "timeTaken": 61822,
+        "classDetails": {
+            "className": "Ssc",
+            "subjectName": "social science"
+        }
+    },
+    {
+        "_id": "65339b7d0012b242285869ae",
+        "timePeriodOfQuiz": 10,
+        "attemptedQuestions": 4,
+        "correctAnswer": 4,
+        "noOfQuestions": 5,
+        "quizDetails": {
+            "title": "algebra"
+        },
+        "timeTaken": 53267,
+        "classDetails": {
+            "className": "10-A-physics",
+            "subjectName": "physics"
+        }
+    },
+    {
+        "_id": "65339db4fc24c324fc544b03",
+        "timePeriodOfQuiz": 10,
+        "attemptedQuestions": 4,
+        "correctAnswer": 0,
+        "noOfQuestions": 4,
+        "quizDetails": {
+            "title": "diffrentiation"
+        },
+        "timeTaken": 25423,
+        "classDetails": {
+            "className": "Chemistry-class",
+            "subjectName": "chemistry"
+        }
+    },
+    {
+        "_id": "6533a64fa9249f641fffa5c3",
+        "timePeriodOfQuiz": 10,
+        "attemptedQuestions": 5,
+        "correctAnswer": 3,
+        "noOfQuestions": 5,
+        "quizDetails": {
+            "title": "New quiz test"
+        },
+        "timeTaken": 90238,
+        "classDetails": {
+            "className": "Chemistry-class",
+            "subjectName": "chemistry"
+        }
+    },
+    {
+        "_id": "6533bc0adaa3de0b684f49f0",
+        "timePeriodOfQuiz": 5,
+        "attemptedQuestions": 5,
+        "correctAnswer": 3,
+        "noOfQuestions": 5,
+        "quizDetails": {
+            "title": "magnetic effect"
+        },
+        "timeTaken": 108417,
+        "classDetails": {
+            "className": "Ssc",
+            "subjectName": "social science"
+        }
+    },
+    {
+        "_id": "65427717769edb5788221e6a",
+        "timePeriodOfQuiz": 60,
+        "attemptedQuestions": 0,
+        "correctAnswer": 0,
+        "noOfQuestions": 1,
+        "quizDetails": {
+            "title": "test"
+        },
+        "timeTaken": 263586,
+        "classDetails": {
+            "className": "Test Timer",
+            "subjectName": "social science"
+        }
+    },
+    {
+        "_id": "654349d8769edb5788221f27",
+        "timePeriodOfQuiz": 5,
+        "attemptedQuestions": 2,
+        "correctAnswer": 0,
+        "noOfQuestions": 5,
+        "quizDetails": {
+            "title": "Trigonometry"
+        },
+        "timeTaken": 391802,
+        "classDetails": {
+            "className": "Test Timer",
+            "subjectName": "social science"
+        }
+    },
+    {
+        "_id": "654cbd4b928b2218736232ee",
+        "timePeriodOfQuiz": 10,
+        "attemptedQuestions": 4,
+        "correctAnswer": 1,
+        "noOfQuestions": 4,
+        "quizDetails": {
+            "title": "Rajat"
+        },
+        "timeTaken": 14812,
+        "classDetails": {
+            "className": "10-A",
+            "subjectName": "biology"
+        }
+    },
+    {
+        "_id": "6565f955053463381fd0a463",
+        "timePeriodOfQuiz": 5,
+        "quizDetails": {
+            "title": "molecules"
+        },
+        "timeTaken": null,
+        "classDetails": {
+            "className": "Ssc",
+            "subjectName": "social science"
+        }
+    },
+    {
+        "_id": "657488592e02c6294566ba7f",
+        "timePeriodOfQuiz": 10,
+        "quizDetails": {
+            "title": "math probability"
+        },
+        "timeTaken": null,
+        "classDetails": {
+            "className": "Chemistry-class",
+            "subjectName": "chemistry"
+        }
+    }
+]

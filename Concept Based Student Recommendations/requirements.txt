@@ -1,0 +1,8 @@
+Flask
+numpy
+Faker
+pandas
+scikit-learn
+requests
+gunicorn
+semantic_text_similarity

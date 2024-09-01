@@ -1,0 +1,101 @@
+{
+    "title": "Types of Bonds in Atoms and Molecules Quiz",
+    "topic": "Types of Bonds in Atoms and Molecules",
+    "duration": "15 minutes",
+    "subjectName": "Chemistry",
+    "description": "This quiz will test your knowledge of the different types of bonds in atoms and molecules.",
+    "questions": [
+        { 
+            "questionName": "Which type of bond involves the sharing of electrons?",
+            "type": "MCQ",
+            "option1": "Covalent Bond",
+            "option2": "Ionic Bond",
+            "option3": "Hydrogen Bond",
+            "option4": "Van der Waals Bond",
+            "explanation": "Covalent bonds involve the sharing of electrons by two atoms.",
+            "answer": "Covalent Bond"
+        },
+        {
+            "questionName": "Which type of bond involves the transfer of electrons from one atom to another and the formation of ions?",
+            "type": "MCQ",
+            "option1": "Covalent Bond",
+            "option2": "Ionic Bond",
+            "option3": "Hydrogen Bond",
+            "option4": "Van der Waals Bond",
+            "explanation": "Ionic bonds involve the transfer of electrons from one atom to another and the formation of ions.",
+            "answer": "Ionic Bond"
+        },
+        {
+            "questionName": "Which type of bond involves the attraction between a hydrogen atom and a more electronegative atom?",
+            "type": "MCQ",
+            "option1": "Covalent Bond",
+            "option2": "Ionic Bond",
+            "option3": "Hydrogen Bond",
+            "option4": "Van der Waals Bond",
+            "explanation": "Hydrogen bonds involve the attraction between a hydrogen atom and a more electronegative atom.",
+            "answer": "Hydrogen Bond"
+        },
+        {
+            "questionName": "Which type of bond involves electrostatic attractions between molecules due to temporary dipoles?",
+            "type": "MCQ",
+            "option1": "Covalent Bond",
+            "option2": "Ionic Bond",
+            "option3": "Hydrogen Bond",
+            "option4": "Van der Waals Bond",
+            "explanation": "Van der Waals bonds involve electrostatic attractions between molecules due to temporary dipoles.",
+            "answer": "Van der Waals Bond"
+        },
+        {
+            "questionName": "Covalent bonds involve the sharing of electrons by two atoms.",
+            "type": "True/False",
+            "option1": "True",
+            "option2": "False",
+            "explanation": "Covalent bonds involve the sharing of electrons by two atoms.",
+            "answer": "True"
+        },
+        {
+            "questionName": "Ionic bonds involve the transfer of electrons from one atom to another and the formation of ions.",
+            "type": "True/False",
+            "option1": "True",
+            "option2": "False",
+            "explanation": "Ionic bonds involve the transfer of electrons from one atom to another and the formation of ions.",
+            "answer": "True"
+        },
+        {
+            "questionName": "Hydrogen bonds involve the attraction between a hydrogen atom and a more electronegative atom.",
+            "type": "True/False",
+            "option1": "True",
+            "option2": "False",
+            "explanation": "Hydrogen bonds involve the attraction between a hydrogen atom and a more electronegative atom.",
+            "answer": "True"
+        },
+        {
+            "questionName": "Van der Waals bonds involve electrostatic attractions between molecules due to temporary dipoles.",
+            "type": "True/False",
+            "option1": "True",
+            "option2": "False",
+            "explanation": "Van der Waals bonds involve electrostatic attractions between molecules due to temporary dipoles.",
+            "answer": "True"
+        },
+        {
+            "questionName": "Which type of bond involves a single pair of shared electrons?",
+            "type": "MCQ",
+            "option1": "Covalent Bond",
+            "option2": "Ionic Bond",
+            "option3": "Hydrogen Bond",
+            "option4": "Van der Waals Bond",
+            "explanation": "Covalent bonds involve a single pair of shared electrons.",
+            "answer": "Covalent Bond"
+        },
+        {
+            "questionName": "Which type of bond involves an electrostatic attraction between two oppositely charged ions?",
+            "type": "MCQ",
+            "option1": "Covalent Bond",
+            "option2": "Ionic Bond",
+            "option3": "Hydrogen Bond",
+            "option4": "Van der Waals Bond",
+            "explanation": "Ionic bonds involve an electrostatic attraction between two oppositely charged ions.",
+            "answer": "Ionic Bond"
+        }
+    ]
+}
